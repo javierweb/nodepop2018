@@ -1,0 +1,44 @@
+{ "anuncios": [{
+    "nombre": "Bicicleta",
+    "venta": true,
+    "precio": 400,
+    "foto": "bici.png",
+    "tags": ["lifestyle", "motor"]
+  },
+  {
+    "nombre": "iPhone x",
+    "venta": true,
+    "precio": 800,
+    "foto": "iphone.jpg",
+    "tags": ["lifestyle", "mobile"]
+  },
+  {
+    "nombre": "Case Iphone",
+    "venta": true,
+    "precio": 10,
+    "foto": "case.jpg",
+    "tags": ["lifestyle", "mobile"]
+  },
+  {
+    "nombre": "samsung 9",
+    "venta": true,
+    "precio": 900,
+    "foto": "samsung.jpg",
+    "tags": ["lifestyle", "mobile"]
+  },
+  {
+    "nombre": "Yamaha ninja",
+    "venta": false,
+    "precio": 7500,
+    "foto": "Yninja.jpg",
+    "tags": ["lifestyle", "motor"]
+  },
+  {
+    "nombre": "Mont blanc",
+    "venta": true,
+    "precio": 150.0,
+    "foto": "MontBlanc.jpg",
+    "tags": [ "work"]
+  }
+]
+}
